@@ -38,6 +38,22 @@ _Placeholder — description of the problem, data source, and approach._
 ### [Project Name](#)
 _Placeholder — description of the problem, data source, and approach._
 
+## Pinned Repos
+
+<!-- GitHub lets you pin up to 6 repos to the top of your profile (separate from this README) —
+go to your profile page and click "Customize your pins" once you have public repos worth featuring.
+Listing them here too gives students/visitors a quick-reference alongside the pinned cards.
+
+Suggested picks once available:
+- Your foundation-model / GeoAI pipeline repo (flagship project)
+- A teaching/training repo (e.g. Jupyter or Colab notebooks for GIS coursework)
+- A tutorial or coursework companion repo for grad students to reference
+-->
+
+- [Repo Name](#) — _one-line description_
+- [Repo Name](#) — _one-line description_
+- [Repo Name](#) — _one-line description_
+
 ## GeoAI Resource Lists
 
 I maintain curated GitHub star lists tracking my GeoAI learning journey:
