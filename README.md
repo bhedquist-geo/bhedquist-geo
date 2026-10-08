@@ -10,11 +10,12 @@ I'm a Geography professor with over 20 years of experience in GIS, remote sensin
 
 ## Current Focus
 
-- 🔭 Currently working on: exploring geospatial foundation models (Prithvi, Clay) and segmentation tools (SAM/SAMGeo) for remote sensing applications <!-- swap in your actual project once started -->
-- 🌱 Currently learning: Python for data science (NumPy, Pandas), machine learning fundamentals, Google Earth Engine, BigQuery for large geospatial datasets
-- 🎯 Goal: deepening my GeoAI expertise to strengthen my research and teaching
-- 📚 Certifications in progress: IBM Data Science Professional Certificate (in progress), Coursera Google Advanced courses
-- 🧭 Also exploring: Hugging Face foundation models and Academia Hub for bringing GeoAI tools into graduate-level remote sensing coursework
+- 🔭 Currently working on: a multi-temporal El Niño climate risk pipeline — Google Earth Engine (MODIS LST, ERA5-Land soil moisture, NOAA ONI) → Cloud Storage → partitioned, clustered BigQuery tables with spatial joins. Next up: matrix construction and ConvLSTM prototyping
+- 💧 Applied focus: Southern High Plains / Ogallala Aquifer depletion and long-term drought, with GRACE/GRACE-FO gravimetry and USGS groundwater data as upcoming inputs
+- 🌱 Currently learning: intermediate Python and SQL, BigQuery GIS, ML fundamentals, and turning Colab notebooks into modular, tested Python with Claude Code
+- 🎯 Goal: building production-ready GeoAI and data pipelines to strengthen my research and teaching
+- 📚 In progress: IBM Data Science Professional Certificate, Spatial Thoughts "Python Foundation for Spatial Analysis," DeepLearning.AI coursework
+- 🧭 Also exploring: geospatial foundation models (Prithvi, Clay), segmentation tools (SAM/SAMGeo), Hugging Face, and Academia Hub for bringing GeoAI tools into graduate-level remote sensing coursework
 
 ## Tech Stack
 
