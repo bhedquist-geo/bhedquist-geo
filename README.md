@@ -116,8 +116,9 @@ I maintain curated GitHub star lists tracking my GeoAI learning journey:
 
 **Upskilling**
 - Pursuing IBM Data Science Professional Certificate
+- Spatial Thoughts "Python Foundation for Spatial Analysis"; DeepLearning.AI coursework
 - Coursera Google Advanced courses; CognitiveClass.ai training materials
-- Self-directed study in Python, machine learning, and Google Earth Engine
+- Self-directed, project-based study in Python, SQL, BigQuery, machine learning, and Google Earth Engine through the El Niño climate risk pipeline
 
 <!-- Drone experience stays a brief mention rather than a headline detail — expand if a specific
 opportunity calls for it (e.g. a role involving UAS/remote sensing data collection).
