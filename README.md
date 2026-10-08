@@ -18,11 +18,44 @@ I'm a Geography professor with over 20 years of experience in GIS, remote sensin
 
 ## Tech Stack
 
+**Languages & Data**
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/-ArcGIS-2C7AC3?style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Xarray](https://img.shields.io/badge/-xarray-1F6FB2?style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+
+**Geospatial & Remote Sensing**
+
+![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-4285F4?style=flat&logo=googleearth&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/-GeoPandas-139C5A?style=flat)
+![rioxarray](https://img.shields.io/badge/-rioxarray-2E8B57?style=flat)
+![GDAL](https://img.shields.io/badge/-GDAL%2FRasterio-5CAE58?style=flat)
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat&logo=qgis&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/-ArcGIS%20Pro-2C7AC3?style=flat)
+
+**Cloud & Data Engineering**
+
+![BigQuery](https://img.shields.io/badge/-BigQuery%20GIS-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud%20Storage-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-JupyterLab-F37626?style=flat&logo=jupyter&logoColor=white)
+
+**Dev Workflow**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Conda](https://img.shields.io/badge/-Conda-44A833?style=flat&logo=anaconda&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+
+**Currently Building Toward**
+
+![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch%20%2F%20TorchGeo-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ## Featured Projects
 
