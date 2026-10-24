@@ -13,7 +13,7 @@ I'm a geography professor at Texas A&M University-Kingsville with 20+ years of e
 - 🌱 **Learning:** intermediate Python and SQL, BigQuery GIS, ML fundamentals, and turning Colab notebooks into modular, tested Python.
 - 🧭 **Exploring:** geospatial foundation models (Prithvi, Clay), SAM/SamGeo, and Hugging Face for use in my courses and research.
 
-## For GIS Certificate Students
+## For GIS Certificate/Minor or currently enrolled Geospatial Students
 
 Free resources I recommend for moving into the modern Python and SQL geospatial stack.
 
