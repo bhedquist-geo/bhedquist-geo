@@ -8,7 +8,7 @@ I'm a geography professor at Texas A&M University-Kingsville with 20+ years of e
 
 ## Resources for Modernizing Your Geospatial Stack (Python & SQL)
 
-Free resources for geospatial students and professionals moving from desktop GIS toward the modern Python and SQL stack. *Students in my GIS certificate, minor, and courses: these are the recommended next steps for your training.*
+Free resources for geospatial students and professionals moving from desktop GIS toward the modern Python and SQL stack. *Students in my GIS certificate, minor, and courses: these are the recommended next steps for your training.* Running the Google Colab notebooks below requires a free Google account.
 
 **Python:** Start with **[Geospatial Python Tutorials](https://www.geopythontutorials.com/)** ([repo](https://github.com/spatialthoughts/geopython-tutorials)) from Spatial Thoughts. Each tutorial is a self-contained Google Colab notebook with datasets and, for many, a video walkthrough, covering GeoPandas, Xarray, satellite imagery, and more. They're written for learners who want to advance their skills, so if you're brand new to Python, take the free [Python Foundation for Spatial Analysis](https://spatialthoughts.com/courses/python-foundation-for-spatial-analysis/) course first. When you're ready for a full textbook, continue with **[pyGIS](https://github.com/bhedquist-geo/pyGIS)** (pinned above; [original by Michael Mann](https://github.com/mmann1123/pyGIS), [read it online](https://pygis.io)), which covers vector and raster data, remote sensing, and machine learning with GeoPandas, Rasterio, and scikit-learn. It is still under development, and it expects some Python experience.
 
