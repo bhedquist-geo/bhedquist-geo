@@ -12,7 +12,13 @@ Free introductory resources for geospatial students and professionals moving fro
 
 **Python:** Start with **[Geospatial Python Tutorials](https://www.geopythontutorials.com/)** ([repo](https://github.com/spatialthoughts/geopython-tutorials)) from Spatial Thoughts. Each tutorial is a self-contained Google Colab notebook with datasets and, for many, a video walkthrough, covering GeoPandas, Xarray, satellite imagery, and more. They're written for learners who want to advance their skills, so if you're brand new to Python, take the free [Python Foundation for Spatial Analysis](https://spatialthoughts.com/courses/python-foundation-for-spatial-analysis/) course first. When you're ready for a full textbook, continue with **[pyGIS](https://github.com/bhedquist-geo/pyGIS)** (pinned above; [original by Michael Mann](https://github.com/mmann1123/pyGIS), [read it online](https://pygis.io)), which covers vector and raster data, remote sensing, and machine learning with GeoPandas, Rasterio, and scikit-learn. It is still under development, and it expects some Python experience.
 
-**SQL:** **[Spatial Data Management with DuckDB](https://github.com/giswqs/duckdb-spatial)** ([book site](https://duckdb.gishub.org)) by Qiusheng Wu starts at SQL basics and builds to spatial queries, joins, and real datasets. DuckDB installs like a Python package, so there's no database server to set up, and the examples run in Colab or Binder, with a companion video playlist.
+**SQL:** **[Spatial Data Management with DuckDB](https://github.com/giswqs/duckdb-spatial)** ([book site](https://duckdb.gishub.org)) by Qiusheng Wu starts at SQL basics and builds to spatial queries, joins, and real datasets. DuckDB installs like a Python package, so there's no database server to set up, and the examples run in Colab or Binder, with a companion video playlist. It can also query cloud-hosted GeoParquet files directly, without downloading them.
+
+**Next steps (cloud-native and big data):**
+
+- **Cloud-native formats:** the [Cloud-Optimized Geospatial Formats Guide](https://guide.cloudnativegeo.org/) explains COG, GeoParquet, and Zarr, which let software read just the part of a file it needs over the web instead of downloading the whole thing.
+- **Data too big for memory:** [Xarray Tutorial](https://tutorial.xarray.dev) for rasters and climate data, then the Dask tutorials in [Geospatial Python Tutorials](https://www.geopythontutorials.com/) for parallel processing.
+- **Spatial SQL at cluster scale (awareness only):** [Apache Sedona](https://sedona.apache.org/) runs spatial SQL across clusters; see its [Spatial SQL tutorial](https://sedona.apache.org/latest/tutorial/sql/).
 
 ## Current Focus
 
