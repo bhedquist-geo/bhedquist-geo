@@ -109,16 +109,16 @@ I maintain curated GitHub star lists tracking my GeoAI learning journey:
 - Background in geography and geospatial technologies (academic training foundation)
 
 **Research**
-- Research collaboration with geophysics colleagues on extreme weather events
-- AP Reader in Human Geography
+- Current research collaborations with colleagues in geophysics, ecology, and geoscience
+- Geospatial applications in a wide range of disciplines within STEM, as well as the Social Sciences
 - Grant writing and research proposal development
-- Some background in small drone operations for remote sensing data collection (8-9 years)
+- Extensive experience with field research design and data collection, including Remote Sensing (UAS), weather & climate, and environmental sensors
 
 **Upskilling**
-- Pursuing IBM Data Science Professional Certificate
+- Pursuing various data science, AI, and cloud certifications
 - Spatial Thoughts "Python Foundation for Spatial Analysis"; DeepLearning.AI coursework
 - Coursera Google Advanced courses; CognitiveClass.ai training materials
-- Self-directed, project-based study in Python, SQL, BigQuery, machine learning, and Google Earth Engine through the El Niño climate risk pipeline
+- Self-directed, project-based study in Python, SQL, Big Query, machine learning, and Google Earth Engine through a climate risk/hazards data pipeline
 
 <!-- Drone experience stays a brief mention rather than a headline detail — expand if a specific
 opportunity calls for it (e.g. a role involving UAS/remote sensing data collection).
