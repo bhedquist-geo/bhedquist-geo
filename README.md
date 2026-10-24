@@ -6,9 +6,9 @@
 
 I'm a geography professor at Texas A&M University-Kingsville with 20+ years of experience in GIS, remote sensing, and climate science. I teach in our GIS certificate program and in geography and geoscience courses. Alongside that work, I'm building GeoAI skills (Python, machine learning, Google Earth Engine) to bring remote sensing foundation models and applied ML into my research and teaching.
 
-## For GIS Certificate/Minor or currently enrolled Geospatial Students
+## Resources for Modernizing Your Geospatial Stack (Python & SQL)
 
-Free resources I recommend for moving into the modern Python and SQL geospatial stack.
+Free resources for geospatial students and professionals moving from desktop GIS toward the modern Python and SQL stack. *Students in my GIS certificate, minor, and courses: these are the recommended next steps for your training.*
 
 **Python:** Start with **[Geospatial Python Tutorials](https://www.geopythontutorials.com/)** ([repo](https://github.com/spatialthoughts/geopython-tutorials)) from Spatial Thoughts. Each tutorial is a self-contained Google Colab notebook with datasets and, for many, a video walkthrough, covering GeoPandas, Xarray, satellite imagery, and more. They're written for learners who want to advance their skills, so if you're brand new to Python, take the free [Python Foundation for Spatial Analysis](https://spatialthoughts.com/courses/python-foundation-for-spatial-analysis/) course first. When you're ready for a full textbook, continue with **[pyGIS](https://github.com/bhedquist-geo/pyGIS)** (pinned above; [original by Michael Mann](https://github.com/mmann1123/pyGIS), [read it online](https://pygis.io)), which covers vector and raster data, remote sensing, and machine learning with GeoPandas, Rasterio, and scikit-learn. It is still under development, and it expects some Python experience.
 
