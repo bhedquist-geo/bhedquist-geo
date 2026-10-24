@@ -14,8 +14,8 @@ I'm a Geography professor with over 20 years of experience in GIS, remote sensin
 - 💧 Applied focus: Southern High Plains / Ogallala Aquifer depletion and long-term drought, with GRACE/GRACE-FO gravimetry and USGS groundwater data as upcoming inputs
 - 🌱 Currently learning: intermediate Python and SQL, BigQuery GIS, ML fundamentals, and turning Colab notebooks into modular, tested Python with Claude Code
 - 🎯 Goal: building production-ready GeoAI and data pipelines to strengthen my research and teaching
-- 📚 In progress: IBM Data Science Professional Certificate, Spatial Thoughts "Python Foundation for Spatial Analysis," DeepLearning.AI coursework
-- 🧭 Also exploring: geospatial foundation models (Prithvi, Clay), segmentation tools (SAM/SAMGeo), Hugging Face, and Academia Hub for bringing GeoAI tools into graduate-level remote sensing coursework
+- 📚 In progress: Various training in Geospatial Data Science and GeoAI with Coursera, DeepLearning.AI, and Spatial Thoughts
+- 🧭 Also exploring: geospatial foundation models (Prithvi, Clay), segmentation tools (SAM/SAMGeo), Hugging Face, and Academia Hub for bringing GeoAI tools into my courses and research projects
 
 ## Tech Stack
 
@@ -105,8 +105,8 @@ I maintain curated GitHub star lists tracking my GeoAI learning journey:
 **Academic**
 - University Professor in Geography, Texas A&M University-Kingsville
 - 20+ years of experience in geospatial technologies, remote sensing, and climate/atmospheric science
-- Teaching GIS certificate programs and geography courses
-- Background in geography and geospatial technologies (academic training foundation)
+- Teaching GIS certificate courses, geography, and geoscience courses
+- Background in geography, climate, and geospatial technologies (academic training foundation)
 
 **Research**
 - Current research collaborations with colleagues in geophysics, ecology, and geoscience
