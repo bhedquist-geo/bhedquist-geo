@@ -6,13 +6,6 @@
 
 I'm a geography professor at Texas A&M University-Kingsville with 20+ years of experience in GIS, remote sensing, and climate science. I teach in our GIS certificate program and in geography and geoscience courses. Alongside that work, I'm building GeoAI skills (Python, machine learning, Google Earth Engine) to bring remote sensing foundation models and applied ML into my research and teaching.
 
-## Current Focus
-
-- 🔭 **Building:** a multi-temporal El Niño climate risk pipeline. Google Earth Engine (MODIS LST, ERA5-Land soil moisture, NOAA ONI) → Cloud Storage → partitioned, clustered BigQuery tables with spatial joins. Next: matrix construction and ConvLSTM prototyping.
-- 💧 **Applied focus:** ongoing research on the South Texas Sand Sheets (geomorphology and spatio-temporal change, using remote sensing and GeoAI), and Southern High Plains / Ogallala Aquifer depletion and long-term drought, using GRACE/GRACE-FO gravimetry and USGS groundwater data.
-- 🌱 **Learning:** intermediate Python and SQL, BigQuery GIS, ML fundamentals, and turning Colab notebooks into modular, tested Python.
-- 🧭 **Exploring:** geospatial foundation models (Prithvi, Clay), SAM/SamGeo, and Hugging Face for use in my courses and research.
-
 ## For GIS Certificate/Minor or currently enrolled Geospatial Students
 
 Free resources I recommend for moving into the modern Python and SQL geospatial stack.
@@ -20,6 +13,13 @@ Free resources I recommend for moving into the modern Python and SQL geospatial 
 **Python:** Start with **[Geospatial Python Tutorials](https://www.geopythontutorials.com/)** ([repo](https://github.com/spatialthoughts/geopython-tutorials)) from Spatial Thoughts. Each tutorial is a self-contained Google Colab notebook with datasets and, for many, a video walkthrough, covering GeoPandas, Xarray, satellite imagery, and more. They're written for learners who want to advance their skills, so if you're brand new to Python, take the free [Python Foundation for Spatial Analysis](https://spatialthoughts.com/courses/python-foundation-for-spatial-analysis/) course first. When you're ready for a full textbook, continue with **[pyGIS](https://github.com/bhedquist-geo/pyGIS)** (pinned above; [original by Michael Mann](https://github.com/mmann1123/pyGIS), [read it online](https://pygis.io)), which covers vector and raster data, remote sensing, and machine learning with GeoPandas, Rasterio, and scikit-learn. It is still under development, and it expects some Python experience.
 
 **SQL:** **[Spatial Data Management with DuckDB](https://github.com/giswqs/duckdb-spatial)** ([book site](https://duckdb.gishub.org)) by Qiusheng Wu starts at SQL basics and builds to spatial queries, joins, and real datasets. DuckDB installs like a Python package, so there's no database server to set up, and the examples run in Colab or Binder, with a companion video playlist.
+
+## Current Focus
+
+- 🔭 **Building:** a multi-temporal El Niño climate risk pipeline. Google Earth Engine (MODIS LST, ERA5-Land soil moisture, NOAA ONI) → Cloud Storage → partitioned, clustered BigQuery tables with spatial joins. Next: matrix construction and ConvLSTM prototyping.
+- 💧 **Applied focus:** ongoing research on the South Texas Sand Sheets (geomorphology and spatio-temporal change, using remote sensing and GeoAI), and Southern High Plains / Ogallala Aquifer depletion and long-term drought, using GRACE/GRACE-FO gravimetry and USGS groundwater data.
+- 🌱 **Learning:** intermediate Python and SQL, BigQuery GIS, ML fundamentals, and turning Colab notebooks into modular, tested Python.
+- 🧭 **Exploring:** geospatial foundation models (Prithvi, Clay), SAM/SamGeo, and Hugging Face for use in my courses and research.
 
 ## Tech Stack
 
@@ -62,11 +62,9 @@ Free resources I recommend for moving into the modern Python and SQL geospatial 
 I keep curated GitHub star lists for my GeoAI learning:
 climate-weather-data · geospatial-ai/ml · education-training-resources · geospatial-sql-bigdata · geospatial-python-tools · earth-observation-rs-list · geoai-foundation-models-hf
 
-## Background
+## Research Experience
 
-- **Academic:** Professor of Geography, Texas A&M University-Kingsville. Teaching GIS certificate, geography, and geoscience courses.
-- **Research:** Collaborations in geophysics, ecology, and geoscience; field research design and data collection, including UAS remote sensing, weather and climate, and environmental sensors; grant and proposal writing.
-- **Upskilling:** Spatial Thoughts "Python Foundation for Spatial Analysis," DeepLearning.AI, Coursera, and CognitiveClass.ai, plus self-directed, project-based study in Python, SQL, BigQuery, ML, and Earth Engine through a climate-hazard data pipeline.
+- Collaborations in geophysics, ecology, and geoscience; field research design and data collection, including UAS remote sensing, weather and climate, and environmental sensors; grant and proposal writing.
 
 ## Let's Connect
 
