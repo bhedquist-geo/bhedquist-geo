@@ -65,7 +65,7 @@ Free introductory resources for geospatial students and professionals moving fro
 
 ## GeoAI Resource Lists
 
-I keep curated GitHub star lists for learning the modern geospatial data science, remote sensing, climate, and GeoAI stack. They are meant for students and professionals who want a short, vetted path through the tools instead of searching millions of repositories. Suggested order for newcomers is top to bottom:
+I keep curated GitHub star lists for learning the modern geospatial data science, remote sensing, climate, and GeoAI stack. They are meant for students and professionals who want a short, vetted path through the tools instead of searching millions of repositories. Suggested order for newcomers is top to bottom within each group:
 
 **Method lists** (domain-agnostic tools and techniques):
 
