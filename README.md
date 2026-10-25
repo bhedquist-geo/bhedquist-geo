@@ -67,17 +67,26 @@ Free introductory resources for geospatial students and professionals moving fro
 
 I keep curated GitHub star lists for learning the modern geospatial data science, remote sensing, climate, and GeoAI stack. They are meant for students and professionals who want a short, vetted path through the tools instead of searching millions of repositories. Suggested order for newcomers is top to bottom:
 
+**Method lists** (domain-agnostic tools and techniques):
+
 - [education-training-resources](https://github.com/stars/bhedquist-geo/lists/education-training-resources): Start here: courses, textbooks, and tutorials for learning geospatial Python, SQL, ML, and data science.
-- [geospatial-python-tools](https://github.com/stars/bhedquist-geo/lists/geospatial-python-tools): Core Python stack: GeoPandas, Shapely, Rasterio, GDAL, rioxarray, Dask, Zarr, STAC clients, and mapping widgets.
-- [geospatial-sql-bigdata](https://github.com/stars/bhedquist-geo/lists/geospatial-sql-bigdata): Spatial SQL and big data: DuckDB, PostGIS, Apache Sedona, BigQuery, and cloud-scale spatial SQL tools.
-- [earth-observation-rs-list](https://github.com/stars/bhedquist-geo/lists/earth-observation-rs-list): Remote sensing and Earth observation: Google Earth Engine, STAC and cloud-native tools, NASA data tutorials, and spectral indices.
-- [climate-weather-data](https://github.com/stars/bhedquist-geo/lists/climate-weather-data): Climate and weather data science: Xarray, xclim, MetPy, Iris, ERA5 and CMIP tools, and tutorials.
-- [geospatial-ai-ml](https://github.com/stars/bhedquist-geo/lists/geospatial-ai-ml): Machine learning for geospatial data: TorchGeo, GeoAI, segmentation, deep learning for remote sensing, and agents.
+- [raster-vector-core](https://github.com/stars/bhedquist-geo/lists/raster-vector-core): Core raster and vector libraries: GeoPandas, Shapely, Rasterio, GDAL, pyproj, and related readers and utilities.
+- [gridded-multidimensional-data](https://github.com/stars/bhedquist-geo/lists/gridded-multidimensional-data): Gridded and multidimensional data: Xarray and its ecosystem, Zarr, Dask, NetCDF, and CF conventions.
+- [cloud-native-stac](https://github.com/stars/bhedquist-geo/lists/cloud-native-stac): Cloud-native geospatial: STAC clients and catalogs, COG, GeoParquet, GeoArrow, tile servers, and cloud data access.
+- [spatial-sql-data-wrangling](https://github.com/stars/bhedquist-geo/lists/spatial-sql-data-wrangling): Spatial SQL and data wrangling: DuckDB, PostGIS, BigQuery, Apache Sedona, and cloud-scale spatial SQL tools.
+- [google-earth-engine](https://github.com/stars/bhedquist-geo/lists/google-earth-engine): Google Earth Engine: geemap, the Python API, Xee, community tools, courses, and the data catalog.
+- [earth-observation-remote-sensing](https://github.com/stars/bhedquist-geo/lists/earth-observation-remote-sensing): Remote sensing and Earth observation: NASA data tutorials, spectral indices, change detection, and satellite imagery notebooks.
+- [geoai-remote-sensing-ml](https://github.com/stars/bhedquist-geo/lists/geoai-remote-sensing-ml): Machine learning for geospatial data: TorchGeo, GeoAI, segmentation, deep learning for remote sensing, and agents.
 - [geoai-foundation-models-hf](https://github.com/stars/bhedquist-geo/lists/geoai-foundation-models-hf): Geospatial foundation models (Prithvi, Clay, SAM and relatives) with Hugging Face weights and fine-tuning toolkits.
+- [spatial-statistics-networks](https://github.com/stars/bhedquist-geo/lists/spatial-statistics-networks): Spatial statistics and analysis: PySAL, OSMnx, momepy, network and urban analysis tools.
+- [visualization-communication](https://github.com/stars/bhedquist-geo/lists/visualization-communication): Mapping, interactive maps, dashboards, and notebooks for communicating geospatial results.
+- [python-engineering-reproducibility](https://github.com/stars/bhedquist-geo/lists/python-engineering-reproducibility): Python engineering patterns: notebooks, project templates, and reproducible environments for geospatial work.
+
+**Applications and tools:**
+
+- [climate-weather-data](https://github.com/stars/bhedquist-geo/lists/climate-weather-data): Climate and weather data science: MetPy, xclim, climpred, ERA5 and CMIP tools, and tutorials.
 - [open-source-gis](https://github.com/stars/bhedquist-geo/lists/open-source-gis): Open-source desktop and server GIS: QGIS, GRASS, GeoNode, pygeoapi, and curated awesome lists.
-- [ai-ml-models](https://github.com/stars/bhedquist-geo/lists/ai-ml-models): General AI/ML model collections and curated lists.
 - [ai-assisted-coding-tools](https://github.com/stars/bhedquist-geo/lists/ai-assisted-coding-tools): AI-assisted coding tools for research and teaching workflows.
-- [agentic-gis-data-warehouses](https://github.com/stars/bhedquist-geo/lists/agentic-gis-data-warehouses): Agentic GIS and data-warehouse tooling.
 
 ## Research Experience
 
