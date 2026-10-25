@@ -90,7 +90,7 @@ I keep curated GitHub star lists for learning the modern geospatial data science
 
 ## Research Experience
 
-- Collaborations in geophysics, ecology, and geoscience; field research design and data collection, including UAS remote sensing, weather and climate, and environmental sensors; grant and proposal writing.
+- Collaborations across STEM fields, as well as in the Humanities; field research design and data collection, including ground and aerial remote sensing, weather and climate, and environmental sensors; grant and proposal writing.
 
 ## Let's Connect
 
