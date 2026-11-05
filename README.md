@@ -80,6 +80,7 @@ I keep curated GitHub star lists for learning the modern geospatial data science
 - [geoai-foundation-models-hf](https://github.com/stars/bhedquist-geo/lists/geoai-foundation-models-hf): Geospatial foundation models (Prithvi, Clay, SAM and relatives) with Hugging Face weights and fine-tuning toolkits.
 - [spatial-statistics-networks](https://github.com/stars/bhedquist-geo/lists/spatial-statistics-networks): Spatial statistics and analysis: PySAL, OSMnx, momepy, network and urban analysis tools.
 - [visualization-communication](https://github.com/stars/bhedquist-geo/lists/visualization-communication): Mapping, interactive maps, dashboards, and notebooks for communicating geospatial results.
+- [3d-web-mapping](https://github.com/stars/bhedquist-geo/lists/3d-web-mapping): 3D web mapping: CesiumJS, 3D Tiles, deck.gl, MapLibre, and browser-based globe, terrain, and real-time visualization tools.
 - [python-engineering-reproducibility](https://github.com/stars/bhedquist-geo/lists/python-engineering-reproducibility): Python engineering patterns: notebooks, project templates, and reproducible environments for geospatial work.
 
 **Applications and tools:**
